@@ -15,8 +15,6 @@ YouTube AdBlock Extension is a browser extension designed to enhance your YouTub
 4. Enable Developer Mode.
 5. Load the extension by selecting "Load unpacked" and choosing the unzipped folder.
 
-## Where 
-
 ## Usage
 
 Once installed, the extension works silently in the background. Just visit YouTube and enjoy an ad-free viewing experience.
