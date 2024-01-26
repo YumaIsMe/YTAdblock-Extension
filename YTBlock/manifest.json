@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Ad Blocker",
+  "description": "Blocks ads on YouTube",
+  "version": "1.0.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+
+  "action": {
+    "permissions": ["tabs"],
+    "default_popup": "popup/popup.html"
+  },
+  "content_scripts": [
+    {
+      "js": ["extension/content.js"],
+      "matches": ["*://www.youtube.com/*"],
+      "run_at": "document_end"
+    }
+  ],
+
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+}
