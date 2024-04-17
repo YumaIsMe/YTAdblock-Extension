@@ -1,12 +1,12 @@
-# YouTube AdBlock Extension
+#  Extension
 
 ## Overview
 
-YouTube AdBlock Extension is a browser extension designed to enhance your YouTube experience by blocking intrusive ads. Enjoy uninterrupted video content without the annoyance of advertisements.
+ this is a Extension 
 
 ## Features
 
-- **Ad Removal:**  This extension efficiently blocks YouTube ads, creating a seamless viewing experience.
+
 
 ## Installation
 1. Download the [YTblocker.zip](https://github.com/YumaIsMe/YTAdblock-Extension/files/14070062/YTblocker.zip) file.
@@ -17,9 +17,6 @@ YouTube AdBlock Extension is a browser extension designed to enhance your YouTub
 6. Enable Developer Mode.
 7. Load the extension by selecting "Load unpacked" and choosing the unzipped folder.
 
-## Usage
-
-Once installed, the extension works silently in the background. Just visit YouTube and enjoy an ad-free viewing experience.
 
 ## License
 
