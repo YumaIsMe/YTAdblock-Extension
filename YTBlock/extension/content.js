@@ -1,184 +1,114 @@
-(function() {
-  const adblocker = true;
-  const removePopup = false;
-  const debugMessages = true;
+function _0x28aa() {
+    const _0x2d6387 = ['le-scope.y', 'style-type', 'derer,\x0a\x20\x20\x20', ',\x0a\x20\x20\x20\x20\x20\x20\x20\x20', '\x20\x20\x20\x20\x20\x20ytd-', 'oJazz', '\x20\x20\x20\x20\x20\x20\x20\x20ma', 'lexy,\x0a\x20\x20\x20\x20', 'ope.ytd-pr', '112c', 'ayout-rend', '\x20ytd-in-fe', 'nt-banner-', 'td-display', '-feed-ad-l', '-promoted-', '-ad-render', 'rer,\x0a\x20\x20\x20\x20\x20', '-info-rend', 'advertiser', 'ving\x20page\x20', 'd-renderer', '\x20\x20\x20\x20\x20\x20\x20tp-', 'drop,\x0a\x20\x20\x20\x20', '\x20\x20\x20\x20\x20\x20\x20vis', '\x20\x20\x20\x20}\x0a\x20\x20\x20\x20', '8269134gLsqLG', '\x20\x20#masthea', 'rmal\x20ads.', 'r,\x0a\x20\x20\x20\x20\x20\x20\x20', '-display-a', 'statement-', '\x20\x20\x20\x20\x20\x20\x20\x20\x20d', 'log', 'd-video-ma', 'l\x20ads:\x20', 'td-watch-f', '\x20\x20\x20\x20\x20\x20\x20\x20di', 'dispatchEv', 'OdkGx', 'forEach', '\x20\x20\x20\x20\x20\x20\x20\x20\x20y', 'CKQsB', 'jFShh', '-compact,\x0a', 'er,\x0a\x20\x20\x20\x20\x20\x20', 'his-ad-ren', 'video-rend', '.zBmRhe-Bz', 'ent', 'r.style-sc', '\x20\x20\x20ytd-ad-', 'erlay-back', 'erer-backg', 'lot-render', 'eTgcm', '3940955DEIfnq', 'promo-rend', '\x20\x20\x20stateme', 'ut-rendere', 'eTAiz', '3736044QlRgID', 'renderer,\x0a', '.ytp-ad-bu', 'moved\x20all\x20', 'nderer,\x0a\x20\x20', 'slot-rende', 'promoted-s', 'ibility:\x20h', 'd-ad\x20{\x0a\x20\x20\x20', 'HYARg', '\x20\x20\x20\x20\x20\x20\x20\x20', 'VNCMv', '[label=\x22Bl', '\x20\x20div#play', 'er-ads.sty', 'JsVJo', '\x20\x20\x20\x20\x20\x20ytm-', '4lJuTvn', 'main-conta', '\x20\x20\x20yt-meal', 'parkles-we', '\x20\x20\x20\x20\x20\x20\x20ytd', 'ock\x20ad\x22]', 'b-renderer', '45184IFbbbj', 'ortant;\x0a\x20\x20', '-ad-primar', 'v#root.sty', 'was\x20here,\x20', 'oVWas', 'le-endpoin', 'ucFJr', 'createElem', '\x20\x20ytd-vide', 'click', '-action-co', 'appendChil', 'ed-ad-layo', '\x20\x20ytd-ad-s', 's-containe', '-video-mas', 'rted', 'td-banner-', 'Script\x20sta', 'lVIaH', 'thead-ad-v', 'location', 'round,\x0a\x20\x20\x20', 'style', 'sthead-ad-', 'ads:\x20', 'ztFuq', 'Something\x20', 'href', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20', 'torAll', '\x20\x20\x20\x20\x20\x20div#', '101363ctGsBO', 'o-masthead', 'the\x20noise.', '\x20\x20ad-slot-', '1605816GNKetO', '3-renderer', 'Removed\x20no', 'ving\x20norma', '\x20\x20\x20\x20ytd-in', 'LOtEY', 'Initializa', 'tion:\x20', 'sthead-ad,', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', 'er.yt-simp', 'iner.style', 'idden\x20!imp', 'querySelec', 'bar-promo-', 'tton-icon', 'YDCEw', 'rkles-web-', '\x20\x20\x20\x20\x20\x20.ytd', 'rHLRn', '-renderer,', 'Error\x20remo', 'omoted-spa', '-scope.ytd', 'erer,\x0a\x20\x20\x20\x20', 'iEgFH', 'head', '\x20\x20\x20\x20\x20\x20\x20\x20yt', 'yt-iron-ov', 't,\x0a\x20\x20\x20\x20\x20\x20\x20', 'yt-about-t', 'VwOzF', 'iv#sparkle', '30XLRgMa', '1169PQeVij', 'banner-ren', '4692285kIkOCt', 'y-video-re', 'textConten', 'we\x20have\x20re', 'RKMwG', 'mpanion-ad'];
+    _0x28aa = function() {
+        return _0x2d6387;
+    };
+    return _0x28aa();
+}
 
-  let isAdFound = false;
-  let adLoop = 0;
-  let adProcessed = false;
-  let videoLoop  = 1;
-  
-  log("Script started");
+function _0x4aae(_0x32926d, _0xc35b0f) {
+    const _0x1982b9 = _0x28aa();
+    return _0x4aae = function(_0x5ad75a, _0x47bbc5) {
+        _0x5ad75a = _0x5ad75a - (0x151e + 0x22 * 0xf4 + -0xd19 * 0x4);
+        let _0x1f394c = _0x1982b9[_0x5ad75a];
+        return _0x1f394c;
+    }, _0x4aae(_0x32926d, _0xc35b0f);
+}(function(_0x1cab9b, _0x6eb83a) {
+    const _0x44487c = _0x4aae,
+        _0x235a1f = _0x1cab9b();
+    while (!![]) {
+        try {
+            const _0x14ebdd = parseInt(_0x44487c(0x1c3)) / (-0x2029 * -0x1 + 0x12dc + -0x3304) + parseInt(_0x44487c(0x123)) / (-0x1f29 * -0x1 + -0x45b * -0x1 + -0x2382) + -parseInt(_0x44487c(0x18a)) / (-0xfd3 + -0x97 * 0x20 + -0x5c9 * -0x6) + -parseInt(_0x44487c(0x19b)) / (0x2350 + 0xd2e + 0xaa * -0x49) * (parseInt(_0x44487c(0x185)) / (0x1dcb + 0x526 * 0x2 + -0x2812)) + parseInt(_0x44487c(0x167)) / (0x33 * -0x36 + 0x6d * -0x5a + 0x311a) + parseInt(_0x44487c(0x145)) / (0x4e9 * -0x6 + 0x16 * 0xfe + 0x7a9) * (-parseInt(_0x44487c(0x1a2)) / (-0x35f * 0x6 + 0x7b7 + -0x13 * -0xa9)) + -parseInt(_0x44487c(0x147)) / (0x3b7 + -0x220b + -0x3 * -0xa1f) * (-parseInt(_0x44487c(0x144)) / (-0x1 * -0x1f05 + -0x1 * -0x1f63 + 0x3 * -0x14ca));
+            if (_0x14ebdd === _0x6eb83a) break;
+            else _0x235a1f['push'](_0x235a1f['shift']());
+        } catch (_0x5a8d74) {
+            _0x235a1f['push'](_0x235a1f['shift']());
+        }
+    }
+}(_0x28aa, 0x1 * -0x7ae24 + 0x18de4b + 0x3ea7f * -0x1), (function() {
+    'use strict';
+    const _0x44f93b = _0x4aae,
+        _0x3b5cc0 = {
+            'VwOzF': function(_0x3c4ec7, _0xeb0b97) {
+                return _0x3c4ec7 !== _0xeb0b97;
+            },
+            'eTAiz': function(_0x1cee9f) {
+                return _0x1cee9f();
+            },
+            'JsVJo': _0x44f93b(0x1ba),
+            'LOtEY': function(_0x4df2af, _0x3d9437) {
+                return _0x4df2af(_0x3d9437);
+            },
+            'lVIaH': _0x44f93b(0x1be) + _0x44f93b(0x1a6) + _0x44f93b(0x14a) + _0x44f93b(0x18d) + _0x44f93b(0x1c5),
+            'oVWas': function(_0x33eda3, _0x461533) {
+                return _0x33eda3(_0x461533);
+            },
+            'eTgcm': function(_0x5955a0, _0x3dd89f) {
+                return _0x5955a0 + _0x3dd89f;
+            },
+            'OdkGx': _0x44f93b(0x138) + _0x44f93b(0x161) + _0x44f93b(0x1bc),
+            'jFShh': _0x44f93b(0x138) + _0x44f93b(0x126) + _0x44f93b(0x170),
+            'iEgFH': _0x44f93b(0x18c) + _0x44f93b(0x132),
+            'VNCMv': _0x44f93b(0x196) + _0x44f93b(0x1a0),
+            'RKMwG': _0x44f93b(0x17d) + _0x44f93b(0x156),
+            'oJazz': function(_0x48bacb, _0x38b7e2) {
+                return _0x48bacb(_0x38b7e2);
+            },
+            'YDCEw': _0x44f93b(0x125) + _0x44f93b(0x169),
+            'rHLRn': _0x44f93b(0x129) + _0x44f93b(0x12a),
+            'ucFJr': _0x44f93b(0x1ac),
+            'ztFuq': _0x44f93b(0x1b5) + _0x44f93b(0x1b3),
+            'CKQsB': function(_0x37f6c0) {
+                return _0x37f6c0();
+            },
+            'HYARg': function(_0x4d843c, _0x59a5f3, _0x40ae79) {
+                return _0x4d843c(_0x59a5f3, _0x40ae79);
+            }
+        };
+    const _0x2dbb58 = !![],
+        _0x184bff = !![];
+    let _0x434516 = window[_0x44f93b(0x1b8)][_0x44f93b(0x1bf)],
+        _0x42caca;
+    const _0x2ea690 = new MouseEvent(_0x3b5cc0[_0x44f93b(0x1a9)], {
+        'bubbles': !![],
+        'cancelable': !![],
+        'view': window
+    });
+    _0x3b5cc0[_0x44f93b(0x128)](_0x38c29d, _0x3b5cc0[_0x44f93b(0x1bd)]);
+    if (_0x2dbb58) _0x3b5cc0[_0x44f93b(0x177)](_0x338139);
+    _0x42caca = _0x3b5cc0[_0x44f93b(0x193)](setInterval, () => {
+        const _0x5ab5c9 = _0x44f93b;
+        _0x3b5cc0[_0x5ab5c9(0x142)](window[_0x5ab5c9(0x1b8)][_0x5ab5c9(0x1bf)], _0x434516) && (_0x434516 = window[_0x5ab5c9(0x1b8)][_0x5ab5c9(0x1bf)], _0x3b5cc0[_0x5ab5c9(0x189)](_0x3bbf82));
+    }, 0x2 * -0xc89 + -0x2 * 0x47 + -0xfc * -0x1e);
 
-  if (adblocker) removeAds();
-  if (removePopup) popupRemover();
+    function _0x3bbf82() {
+        const _0x38efb1 = _0x44f93b;
+        try {
+            const _0x18a124 = document[_0x38efb1(0x1aa) + _0x38efb1(0x17e)](_0x3b5cc0[_0x38efb1(0x199)]);
+            _0x18a124[_0x38efb1(0x149) + 't'] = _0x38efb1(0x1c0) + _0x38efb1(0x19f) + _0x38efb1(0x1ad) + _0x38efb1(0x14c) + _0x38efb1(0x137) + _0x38efb1(0x1c0) + _0x38efb1(0x19f) + _0x38efb1(0x16b) + _0x38efb1(0x162) + _0x38efb1(0x150) + _0x38efb1(0x13e) + _0x38efb1(0x16f) + _0x38efb1(0x1bb) + _0x38efb1(0x160) + _0x38efb1(0x15f) + _0x38efb1(0x13b) + _0x38efb1(0x12c) + _0x38efb1(0x1ab) + _0x38efb1(0x1c4) + _0x38efb1(0x1a4) + _0x38efb1(0x148) + _0x38efb1(0x18e) + _0x38efb1(0x12c) + _0x38efb1(0x127) + _0x38efb1(0x15b) + _0x38efb1(0x157) + _0x38efb1(0x13b) + _0x38efb1(0x12c) + _0x38efb1(0x1b0) + _0x38efb1(0x183) + _0x38efb1(0x17a) + _0x38efb1(0x12c) + _0x38efb1(0x141) + _0x38efb1(0x17b) + _0x38efb1(0x14f) + _0x38efb1(0x12c) + _0x38efb1(0x19d) + _0x38efb1(0x131) + _0x38efb1(0x18b) + _0x38efb1(0x12c) + _0x38efb1(0x151) + _0x38efb1(0x16c) + _0x38efb1(0x146) + _0x38efb1(0x14f) + _0x38efb1(0x12c) + _0x38efb1(0x180) + _0x38efb1(0x18f) + _0x38efb1(0x15e) + _0x38efb1(0x12c) + _0x38efb1(0x158) + _0x38efb1(0x1af) + _0x38efb1(0x188) + _0x38efb1(0x16a) + _0x38efb1(0x176) + _0x38efb1(0x1b4) + _0x38efb1(0x186) + _0x38efb1(0x182) + _0x38efb1(0x1b9) + _0x38efb1(0x12c) + _0x38efb1(0x187) + _0x38efb1(0x159) + _0x38efb1(0x14e) + _0x38efb1(0x179) + _0x38efb1(0x12c) + _0x38efb1(0x135) + _0x38efb1(0x1b2) + _0x38efb1(0x1b7) + _0x38efb1(0x124) + _0x38efb1(0x150) + _0x38efb1(0x172) + _0x38efb1(0x1a5) + _0x38efb1(0x14d) + _0x38efb1(0x15a) + _0x38efb1(0x15d) + _0x38efb1(0x12d) + _0x38efb1(0x1a8) + _0x38efb1(0x140) + _0x38efb1(0x16d) + _0x38efb1(0x143) + _0x38efb1(0x1b1) + _0x38efb1(0x17f) + _0x38efb1(0x155) + _0x38efb1(0x139) + _0x38efb1(0x134) + _0x38efb1(0x18b) + _0x38efb1(0x12c) + _0x38efb1(0x1c2) + _0x38efb1(0x19c) + _0x38efb1(0x12e) + _0x38efb1(0x13a) + _0x38efb1(0x15c) + _0x38efb1(0x17c) + _0x38efb1(0x13b) + _0x38efb1(0x12c) + _0x38efb1(0x197) + _0x38efb1(0x198) + _0x38efb1(0x14d) + _0x38efb1(0x171) + _0x38efb1(0x154) + _0x38efb1(0x12c) + (_0x38efb1(0x122) + _0x38efb1(0x18b) + _0x38efb1(0x12c) + _0x38efb1(0x19a) + _0x38efb1(0x190) + _0x38efb1(0x19e) + _0x38efb1(0x1a1) + _0x38efb1(0x150) + _0x38efb1(0x153) + _0x38efb1(0x12b) + _0x38efb1(0x1c0) + _0x38efb1(0x163) + _0x38efb1(0x13f) + _0x38efb1(0x181) + _0x38efb1(0x164) + _0x38efb1(0x12c) + _0x38efb1(0x168) + _0x38efb1(0x192) + _0x38efb1(0x12c) + _0x38efb1(0x165) + _0x38efb1(0x191) + _0x38efb1(0x12f) + _0x38efb1(0x1a3) + _0x38efb1(0x12c) + _0x38efb1(0x166) + _0x38efb1(0x194)), document[_0x38efb1(0x13d)][_0x38efb1(0x1ae) + 'd'](_0x18a124), _0x3b5cc0[_0x38efb1(0x128)](_0x38c29d, _0x3b5cc0[_0x38efb1(0x1b6)]);
+        } catch (_0x24d45e) {
+            _0x3b5cc0[_0x38efb1(0x1a7)](_0x38c29d, _0x3b5cc0[_0x38efb1(0x184)](_0x3b5cc0[_0x38efb1(0x174)], _0x24d45e));
+        }
+    }
 
-  function popupRemover() {
-      const observer = new MutationObserver(() => {
-          const modalOverlay = document.querySelector("tp-yt-iron-overlay-backdrop");
-          const popup = document.querySelector(".style-scope ytd-enforcement-message-view-model");
-          const popupButton = document.getElementById("dismiss-button");
-          var video = document.querySelector('video');
-          const bodyStyle = document.body.style;
+    function _0x338139() {
+        const _0x1f8030 = _0x44f93b;
+        s;
+        const _0x1a1d77 = [_0x3b5cc0[_0x1f8030(0x13c)], _0x3b5cc0[_0x1f8030(0x195)], _0x3b5cc0[_0x1f8030(0x14b)]];
+        _0x1a1d77[_0x1f8030(0x175)](_0x3f3073 => {
+            const _0x18ffd9 = _0x1f8030;
+            try {
+                const _0x3e9cfa = document[_0x18ffd9(0x130) + _0x18ffd9(0x1c1)](_0x3f3073);
+                _0x3e9cfa[_0x18ffd9(0x175)](_0x166d6a => _0x166d6a && _0x166d6a[_0x18ffd9(0x173) + _0x18ffd9(0x17e)](_0x2ea690));
+            } catch (_0x44e843) {
+                _0x3b5cc0[_0x18ffd9(0x1a7)](_0x38c29d, _0x3b5cc0[_0x18ffd9(0x184)](_0x3b5cc0[_0x18ffd9(0x178)], _0x44e843));
+            }
+        }), _0x3b5cc0[_0x1f8030(0x152)](_0x38c29d, _0x3b5cc0[_0x1f8030(0x133)]);
+    }
 
-          bodyStyle.setProperty('overflow-y', 'auto', 'important');
-
-          if (modalOverlay) {
-              modalOverlay.removeAttribute("opened");
-              modalOverlay.remove();
-          }
-
-          if (popup && !adProcessed) {
-              log("Popup detected, removing...");
-
-              if (popupButton) popupButton.click();
-
-              popup.remove();
-              if (video.paused) video.play();
-
-              setTimeout(() => {
-                  if (video.paused) video.play();
-              }, 500);
-
-              log("Popup removed");
-              adProcessed = true;
-          }
-      });
-
-      const config = { childList: true, subtree: true };
-      observer.observe(document.body, config);
-  }
-
-  function removeAds() {
-      const observer = new MutationObserver(() => {
-          var video = document.querySelector('video');
-          const ad = [...document.querySelectorAll('.ad-showing')][0];
-
-          if (ad && !adProcessed) {
-              isAdFound = true;
-              adLoop = adLoop + 1;
-
-              if (adLoop < 10) {
-                  const openAdCenterButton = document.querySelector('.ytp-ad-button-icon');
-                  openAdCenterButton?.click();
-
-                  var popupContainer = document.querySelector('body > ytd-app > ytd-popup-container > tp-yt-paper-dialog');
-                  if (popupContainer) popupContainer.style.display = 'none';
-
-                  const blockAdButton = document.querySelector('[label="Block ad"]');
-                  blockAdButton?.click();
-
-                  const blockAdButtonConfirm = document.querySelector('.Eddif [label="CONTINUE"] button');
-                  blockAdButtonConfirm?.click();
-
-                  const closeAdCenterButton = document.querySelector('.zBmRhe-Bz112c');
-                  closeAdCenterButton?.click();
-              } else {
-                  if (video) video.play();
-              }
-
-              log("Found it");
-
-              const skipButtons = ['ytp-ad-skip-button-container', 'ytp-ad-skip-button-modern', '.videoAdUiSkipButton', '.ytp-ad-skip-button', '.ytp-ad-skip-button-modern', '.ytp-ad-skip-button'];
-
-              if (video) {
-                  video.playbackRate = 16;
-                  video.volume = 0;
-
-                  skipButtons.forEach(selector => {
-                      const elements = document.querySelectorAll(selector);
-
-                      if (elements && elements.length > 0) {
-                          elements.forEach(element => {
-                              element?.click();
-                          });
-                      }
-                  });
-
-                  video.play();
-
-                  let randomNumber = Math.random() * (0.5 - 0.1) + 0.1;
-                  video.currentTime = video.duration + randomNumber || 0;
-              }
-
-              adProcessed = true;
-          } else {
-              if (video && video?.playbackRate == 16) {
-                  video.playbackRate = videoLoop;
-              }
-
-              if (isAdFound) {
-                  isAdFound = false;
-
-                  if (videoLoop == 16) videoLoop = 1;
-                  if (video && isFinite(videoLoop)) video.playbackRate = videoLoop;
-
-                  adLoop = 0;
-                  adProcessed = false;
-              } else {
-                  if (video) videoLoop = video.playbackRate;
-              }
-          }
-      });
-
-      const config = { childList: true, subtree: true };
-      observer.observe(document.body, config);
-
-      removePageAds();
-  }
-
-  function removePageAds() {
-      const sponsor = document.querySelectorAll("div#player-ads.style-scope.ytd-watch-flexy, div#panels.style-scope.ytd-watch-flexy");
-      const style = document.createElement('style');
-
-      style.textContent = `
-          ytd-action-companion-ad-renderer,
-          ytd-display-ad-renderer,
-          ytd-video-masthead-ad-advertiser-info-renderer,
-          ytd-video-masthead-ad-primary-video-renderer,
-          ytd-in-feed-ad-layout-renderer,
-          ytd-ad-slot-renderer,
-          yt-about-this-ad-renderer,
-          yt-mealbar-promo-renderer,
-          ytd-statement-banner-renderer,
-          ytd-ad-slot-renderer,
-          ytd-in-feed-ad-layout-renderer,
-          ytd-banner-promo-renderer-background
-          statement-banner-style-type-compact,
-          .ytd-video-masthead-ad-v3-renderer,
-          div#root.style-scope.ytd-display-ad-renderer.yt-simple-endpoint,
-          div#sparkles-container.style-scope.ytd-promoted-sparkles-web-renderer,
-          div#main-container.style-scope.ytd-promoted-video-renderer,
-          div#player-ads.style-scope.ytd-watch-flexy,
-          ad-slot-renderer,
-          ytm-promoted-sparkles-web-renderer,
-          tp-yt-iron-overlay-backdrop,
-          masthead-ad,
-
-          #masthead-ad {
-              display: none !important;
-          }
-      `;
-
-      document.head.appendChild(style);
-
-      sponsor?.forEach((element) => {
-          if (element.getAttribute("id") === "rendering-content") {
-              element.childNodes?.forEach((childElement) => {
-                  if (childElement?.data.targetId && childElement?.data.targetId !== "engagement-panel-macro-markers-description-chapters") {
-                      element.style.display = 'none';
-                  }
-              });
-          }
-      });
-
-      log("Removing ADs from Youtube");
-  }
-
-  function log(message, ...args) {
-      if (!debugMessages) return;
-
-      const prefix = 'Remove Adblock Thing:';
-      console.log(`${prefix} ${message}`, ...args);
-  }
-})();
+    function _0x38c29d(_0x25b247) {
+        const _0x1d30e2 = _0x44f93b;
+        if (!_0x184bff) return;
+        console[_0x1d30e2(0x16e)](_0x3b5cc0[_0x1d30e2(0x184)](_0x3b5cc0[_0x1d30e2(0x136)], _0x25b247));
+    }
+}()));
