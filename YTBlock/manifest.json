@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Simple Ad Blocker",
   "description": "Blocks ads on YouTube",
-  "version": "1.0.",
+  "version": "1.0.5",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
