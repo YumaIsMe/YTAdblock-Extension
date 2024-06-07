@@ -1,11 +1,10 @@
-#  Extension
+# Extension
 
-i have come to the decision to close this project as it goes agsinst youtube tos.
+After some reconsideration, I've opted not to close this project. It's essential to acknowledge that I've disabled it due to its non-compliance with YouTube's terms of service.
 
-it was nice while it lasted, I will be removing all code within 20 hours.
+Nevertheless, I've decided to reopen it for potential future enhancements and adjustments.
 
-
-Note that you are solely responsible for any use of this extension, as its deployment to block ads was your personal decision.
+Please keep in mind that any actions undertaken with this extension, such as ad blocking, were at your discretion, and you bear full responsibility for them.
 
 ## License
 
